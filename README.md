@@ -2,7 +2,7 @@
 Software Engineer with a degree in Computer Engineering from Erciyes University. Currently focused on Backend Development, with experience in iOS Development.
 
 
-# [ PROJECT_ARTIFACT ]
+# Core Dependencies
 
 ```yaml
 GroupId       : com.zekeriya.degirmenci
