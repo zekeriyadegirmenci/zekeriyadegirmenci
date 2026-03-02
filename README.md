@@ -1,50 +1,25 @@
-<div align="center">
-  <img height="150" 
-    ![icegif-1214](https://github.com/user-attachments/assets/feaf2a3a-9e81-462e-8da8-2e5187c002c0)
-    />
-</div>
+# Hi, I'm Zekeriya
+Software Engineer with a degree in Computer Engineering from Erciyes University. Currently focused on Backend Development, with experience in iOS Development.
 
-###
 
-<h1 align="center">Hi I'm Zach</h1>
+# [ PROJECT_ARTIFACT ]
 
-###
+```yaml
+GroupId       : com.zekeriya.degirmenci
+ArtifactId    : software-engineer
+Version       : 2025.12.graduation (Erciyes University)
+Main_Class    : Java_Backend_Development << iOS_Mobile_Apps
+Dependencies  : Java, Spring_Boot, Swift, SwiftUI, Docker, SQL
+Repositories  :
+  - backend_api_services         # Spring Boot & Java Development
+  - database_architecture        # Design, SQL & Management 
+  - ios_mobile_legacy            # Swift & SwiftUI 
+Build_Status  : SUCCESS
+```
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/zekeriya-de%C4%9Firmenci-20a429225/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">- 🔭 I'm interested in Swift</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zekeriyadegirmenci&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
+## Contact Me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zek.dgrmnci) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zekeriya-de%C4%9Firmenci-20a429225/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB%2Bd1waX7TOe1jaGiRW3nMA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zekeriyade0@gmail.com) 
