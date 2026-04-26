@@ -1,3 +1,4 @@
+
 # Hi, I'm Zekeriya
 Software Engineer with a degree in Computer Engineering from Erciyes University. Currently focused on Backend Development, with experience in iOS Development.
 
@@ -25,5 +26,5 @@ Build_Status  : SUCCESS
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zek.dgrmnci) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zekeriya-de%C4%9Firmenci-20a429225/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB%2Bd1waX7TOe1jaGiRW3nMA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zekeriyade0@gmail.com) 
 
 <p align="left">
-  <img src="https://github.com/zekeriyadegirmenci/zekeriyadegirmenci/blob/main/assets/01.gif?raw=true" width="350" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/0e8d66fc-1d84-46e0-a7a2-70feae5182f0" width="350" height= "250" alt="GIF">
 </p>
