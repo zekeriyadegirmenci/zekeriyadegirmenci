@@ -28,3 +28,5 @@ Build_Status  : SUCCESS
 <p align="left">
   <img src="https://github.com/user-attachments/assets/0e8d66fc-1d84-46e0-a7a2-70feae5182f0" width="340" height= "220" alt="GIF">
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zekeriyadegirmenci&color=orange&style=flat-square)
